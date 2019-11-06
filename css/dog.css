@@ -14,7 +14,8 @@ header{
 }
 
 h1, h2{
-	font-family: 'Supermercado One', cursive;
+	font-family: 'Boogaloo', cursive;
+	font-stretch: expanded;
 }
 
 header h1{
